@@ -6,7 +6,7 @@ double calculo_e(int num_iteraciones){
 	
 	suma = 0;
 	i = 0;
-	factorial = 1;
+	factorial = 1; // hola esto es un easter egg
 	
 	while (i< num_iteraciones){
 			
